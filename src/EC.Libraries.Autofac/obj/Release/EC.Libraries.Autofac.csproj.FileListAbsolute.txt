@@ -1,0 +1,10 @@
+D:\SuiNingWang\Libraries 4.5\EC.Libraries.Autofac\bin\Release\EC.Libraries.Autofac.exe.config
+D:\SuiNingWang\Libraries 4.5\EC.Libraries.Autofac\bin\Release\EC.Libraries.Autofac.exe
+D:\SuiNingWang\Libraries 4.5\EC.Libraries.Autofac\bin\Release\EC.Libraries.Autofac.pdb
+D:\SuiNingWang\Libraries 4.5\EC.Libraries.Autofac\obj\Release\EC.Libraries.Autofac.exe
+D:\SuiNingWang\Libraries 4.5\EC.Libraries.Autofac\obj\Release\EC.Libraries.Autofac.pdb
+D:\Libraries 4.5\EC.Libraries.Autofac\bin\Release\EC.Libraries.Autofac.exe.config
+D:\Libraries 4.5\EC.Libraries.Autofac\bin\Release\EC.Libraries.Autofac.exe
+D:\Libraries 4.5\EC.Libraries.Autofac\bin\Release\EC.Libraries.Autofac.pdb
+D:\Libraries 4.5\EC.Libraries.Autofac\obj\Release\EC.Libraries.Autofac.exe
+D:\Libraries 4.5\EC.Libraries.Autofac\obj\Release\EC.Libraries.Autofac.pdb

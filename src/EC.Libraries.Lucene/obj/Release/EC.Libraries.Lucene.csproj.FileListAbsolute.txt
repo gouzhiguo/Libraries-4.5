@@ -1,0 +1,12 @@
+D:\Libraries 4.5\EC.Libraries.Lucene\bin\Release\EC.Libraries.Lucene.dll
+D:\Libraries 4.5\EC.Libraries.Lucene\bin\Release\EC.Libraries.Lucene.pdb
+D:\Libraries 4.5\EC.Libraries.Lucene\bin\Release\EC.Libraries.Framework.dll
+D:\Libraries 4.5\EC.Libraries.Lucene\bin\Release\Lucene.Net.dll
+D:\Libraries 4.5\EC.Libraries.Lucene\bin\Release\PanGu.dll
+D:\Libraries 4.5\EC.Libraries.Lucene\bin\Release\PanGu.HighLight.dll
+D:\Libraries 4.5\EC.Libraries.Lucene\bin\Release\PanGu.Lucene.Analyzer.dll
+D:\Libraries 4.5\EC.Libraries.Lucene\bin\Release\EC.Libraries.Framework.pdb
+D:\Libraries 4.5\EC.Libraries.Lucene\bin\Release\PanGu.xml
+D:\Libraries 4.5\EC.Libraries.Lucene\obj\Release\EC.Libraries.Lucene.csprojResolveAssemblyReference.cache
+D:\Libraries 4.5\EC.Libraries.Lucene\obj\Release\EC.Libraries.Lucene.dll
+D:\Libraries 4.5\EC.Libraries.Lucene\obj\Release\EC.Libraries.Lucene.pdb

@@ -1,0 +1,4 @@
+C:\Users\Administrator\Desktop\SuiNing\Libraries 4.5\EC.Libraries.Auth\bin\Debug\EC.Libraries.Auth.dll
+C:\Users\Administrator\Desktop\SuiNing\Libraries 4.5\EC.Libraries.Auth\bin\Debug\EC.Libraries.Auth.pdb
+C:\Users\Administrator\Desktop\SuiNing\Libraries 4.5\EC.Libraries.Auth\obj\Debug\EC.Libraries.Auth.dll
+C:\Users\Administrator\Desktop\SuiNing\Libraries 4.5\EC.Libraries.Auth\obj\Debug\EC.Libraries.Auth.pdb

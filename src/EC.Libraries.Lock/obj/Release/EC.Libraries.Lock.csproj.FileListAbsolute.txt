@@ -1,0 +1,5 @@
+D:\SuiNingWang\Libraries 4.5\EC.Libraries.Lock\bin\Release\EC.Libraries.Lock.dll
+D:\SuiNingWang\Libraries 4.5\EC.Libraries.Lock\bin\Release\EC.Libraries.Lock.pdb
+D:\SuiNingWang\Libraries 4.5\EC.Libraries.Lock\obj\Release\EC.Libraries.Lock.csprojResolveAssemblyReference.cache
+D:\SuiNingWang\Libraries 4.5\EC.Libraries.Lock\obj\Release\EC.Libraries.Lock.dll
+D:\SuiNingWang\Libraries 4.5\EC.Libraries.Lock\obj\Release\EC.Libraries.Lock.pdb

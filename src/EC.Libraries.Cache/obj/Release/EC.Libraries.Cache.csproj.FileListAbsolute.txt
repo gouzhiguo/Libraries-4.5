@@ -1,0 +1,6 @@
+D:\SuiNingWang\Libraries 4.5\EC.Libraries.Cache\obj\Release\EC.Libraries.Cache.csprojResolveAssemblyReference.cache
+D:\Libraries 4.5\EC.Libraries.Cache\bin\Release\EC.Libraries.Cache.dll
+D:\Libraries 4.5\EC.Libraries.Cache\bin\Release\EC.Libraries.Cache.pdb
+D:\Libraries 4.5\EC.Libraries.Cache\obj\Release\EC.Libraries.Cache.csprojResolveAssemblyReference.cache
+D:\Libraries 4.5\EC.Libraries.Cache\obj\Release\EC.Libraries.Cache.dll
+D:\Libraries 4.5\EC.Libraries.Cache\obj\Release\EC.Libraries.Cache.pdb

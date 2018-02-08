@@ -1,0 +1,16 @@
+D:\SuiNingWang\Libraries 4.5\EC.Libraries.RedisLock\bin\Release\EC.Libraries.RedisLock.dll
+D:\SuiNingWang\Libraries 4.5\EC.Libraries.RedisLock\bin\Release\EC.Libraries.RedisLock.pdb
+D:\SuiNingWang\Libraries 4.5\EC.Libraries.RedisLock\bin\Release\EC.Libraries.Framework.dll
+D:\SuiNingWang\Libraries 4.5\EC.Libraries.RedisLock\bin\Release\StackExchange.Redis.dll
+D:\SuiNingWang\Libraries 4.5\EC.Libraries.RedisLock\bin\Release\EC.Libraries.Framework.pdb
+D:\SuiNingWang\Libraries 4.5\EC.Libraries.RedisLock\obj\Release\EC.Libraries.RedisLock.csprojResolveAssemblyReference.cache
+D:\SuiNingWang\Libraries 4.5\EC.Libraries.RedisLock\obj\Release\EC.Libraries.RedisLock.dll
+D:\SuiNingWang\Libraries 4.5\EC.Libraries.RedisLock\obj\Release\EC.Libraries.RedisLock.pdb
+D:\Libraries 4.5\EC.Libraries.RedisLock\bin\Release\EC.Libraries.RedisLock.dll
+D:\Libraries 4.5\EC.Libraries.RedisLock\bin\Release\EC.Libraries.RedisLock.pdb
+D:\Libraries 4.5\EC.Libraries.RedisLock\bin\Release\EC.Libraries.Framework.dll
+D:\Libraries 4.5\EC.Libraries.RedisLock\bin\Release\StackExchange.Redis.dll
+D:\Libraries 4.5\EC.Libraries.RedisLock\bin\Release\EC.Libraries.Framework.pdb
+D:\Libraries 4.5\EC.Libraries.RedisLock\obj\Release\EC.Libraries.RedisLock.csprojResolveAssemblyReference.cache
+D:\Libraries 4.5\EC.Libraries.RedisLock\obj\Release\EC.Libraries.RedisLock.dll
+D:\Libraries 4.5\EC.Libraries.RedisLock\obj\Release\EC.Libraries.RedisLock.pdb

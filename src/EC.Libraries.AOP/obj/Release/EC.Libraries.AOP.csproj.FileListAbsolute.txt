@@ -1,0 +1,8 @@
+D:\SuiNingWang\Libraries 4.5\EC.Libraries.AOP\bin\Release\EC.Libraries.AOP.dll
+D:\SuiNingWang\Libraries 4.5\EC.Libraries.AOP\bin\Release\EC.Libraries.AOP.pdb
+D:\SuiNingWang\Libraries 4.5\EC.Libraries.AOP\obj\Release\EC.Libraries.AOP.dll
+D:\SuiNingWang\Libraries 4.5\EC.Libraries.AOP\obj\Release\EC.Libraries.AOP.pdb
+D:\Libraries 4.5\EC.Libraries.AOP\bin\Release\EC.Libraries.AOP.dll
+D:\Libraries 4.5\EC.Libraries.AOP\bin\Release\EC.Libraries.AOP.pdb
+D:\Libraries 4.5\EC.Libraries.AOP\obj\Release\EC.Libraries.AOP.dll
+D:\Libraries 4.5\EC.Libraries.AOP\obj\Release\EC.Libraries.AOP.pdb

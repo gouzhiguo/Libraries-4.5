@@ -1,0 +1,7 @@
+D:\Libraries 4.5\PanGu\bin\Release\PanGu.dll
+D:\Libraries 4.5\PanGu\bin\Release\PanGu.pdb
+D:\Libraries 4.5\PanGu\obj\Release\PanGu.csprojResolveAssemblyReference.cache
+D:\Libraries 4.5\PanGu\obj\Release\PanGu.AnalyzerResource.resources
+D:\Libraries 4.5\PanGu\obj\Release\PanGu.csproj.GenerateResource.Cache
+D:\Libraries 4.5\PanGu\obj\Release\PanGu.dll
+D:\Libraries 4.5\PanGu\obj\Release\PanGu.pdb

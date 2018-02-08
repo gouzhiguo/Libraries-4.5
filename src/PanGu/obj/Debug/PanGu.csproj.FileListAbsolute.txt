@@ -1,0 +1,6 @@
+D:\works\.net works\Libraries\PanGu\PanGu\bin\Debug\PanGu.dll
+D:\works\.net works\Libraries\PanGu\PanGu\bin\Debug\PanGu.pdb
+D:\works\.net works\Libraries\PanGu\PanGu\obj\Debug\PanGu.AnalyzerResource.resources
+D:\works\.net works\Libraries\PanGu\PanGu\obj\Debug\PanGu.csproj.GenerateResource.Cache
+D:\works\.net works\Libraries\PanGu\PanGu\obj\Debug\PanGu.dll
+D:\works\.net works\Libraries\PanGu\PanGu\obj\Debug\PanGu.pdb

@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A7C13B23-45B1-4340-A52C-9863FB57B5CD}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>EC.Libraries.UnitTest</RootNamespace>
+    <AssemblyName>EC.Libraries.UnitTest</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+    <ReferencePath>$(ProgramFiles)\Common Files\microsoft shared\VSTT\$(VisualStudioVersion)\UITestExtensionPackages</ReferencePath>
+    <IsCodedUITest>False</IsCodedUITest>
+    <TestProjectType>UnitTest</TestProjectType>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DDD.Light.Repo.Contracts, Version=1.0.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\DDD.Light.Repo.Contracts.1.0.3.0\lib\net40\DDD.Light.Repo.Contracts.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DDD.Light.Repo.MongoDB, Version=1.0.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\DDD.Light.Repo.MongoDB.1.0.3.0\lib\net40\DDD.Light.Repo.MongoDB.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MongoDB.Bson, Version=1.8.1.20, Culture=neutral, PublicKeyToken=f686731cfb9cc103, processorArchitecture=MSIL">
+      <HintPath>..\packages\mongocsharpdriver.1.8.1\lib\net35\MongoDB.Bson.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MongoDB.Driver, Version=1.8.1.20, Culture=neutral, PublicKeyToken=f686731cfb9cc103, processorArchitecture=MSIL">
+      <HintPath>..\packages\mongocsharpdriver.1.8.1\lib\net35\MongoDB.Driver.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+  </ItemGroup>
+  <Choose>
+    <When Condition="('$(VisualStudioVersion)' == '10.0' or '$(VisualStudioVersion)' == '') and '$(TargetFrameworkVersion)' == 'v3.5'">
+      <ItemGroup>
+        <Reference Include="Microsoft.VisualStudio.QualityTools.UnitTestFramework, Version=10.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+      </ItemGroup>
+    </When>
+    <Otherwise>
+      <ItemGroup>
+        <Reference Include="Microsoft.VisualStudio.QualityTools.UnitTestFramework" />
+      </ItemGroup>
+    </Otherwise>
+  </Choose>
+  <ItemGroup>
+    <Compile Include="AliTest.cs" />
+    <Compile Include="LingTest.cs" />
+    <Compile Include="LuceneTest.cs" />
+    <Compile Include="MmdTest.cs" />
+    <Compile Include="MongoDBTest.cs" />
+    <Compile Include="WeiXinTest.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EC.Libraries.File\EC.Libraries.File.csproj">
+      <Project>{cbcfe0af-7780-4c51-b0f8-e073b2867fe7}</Project>
+      <Name>EC.Libraries.File</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EC.Libraries.Framework\EC.Libraries.Framework.csproj">
+      <Project>{e13c40e9-5a93-41d7-935c-85eb4d414bc9}</Project>
+      <Name>EC.Libraries.Framework</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EC.Libraries.MongoDB\EC.Libraries.MongoDB.csproj">
+      <Project>{4cb0d75b-89dd-4b77-a11b-4600b5502936}</Project>
+      <Name>EC.Libraries.MongoDB</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EC.Libraries.ORM\EC.Libraries.ORM.csproj">
+      <Project>{f2fa89ce-f066-4356-8640-86709fa3a85c}</Project>
+      <Name>EC.Libraries.ORM</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EC.Libraries.RedisLock\EC.Libraries.RedisLock.csproj">
+      <Project>{449e5643-9323-41ab-ad2d-6236adf69261}</Project>
+      <Name>EC.Libraries.RedisLock</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EC.Libraries.Redis\EC.Libraries.Redis.csproj">
+      <Project>{d855c570-17aa-4a69-b3d0-5f2aecb9a070}</Project>
+      <Name>EC.Libraries.Redis</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EC.Libraries.Util\EC.Libraries.Util.csproj">
+      <Project>{fd6508aa-20d5-4243-a3cd-ff80d0f9460b}</Project>
+      <Name>EC.Libraries.Util</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EC.Libraries.WeiXin\EC.Libraries.WeiXin.csproj">
+      <Project>{c25368f6-6641-4c86-ae6f-5bf2dd80b048}</Project>
+      <Name>EC.Libraries.WeiXin</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="cert\" />
+  </ItemGroup>
+  <Choose>
+    <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
+      <ItemGroup>
+        <Reference Include="Microsoft.VisualStudio.QualityTools.CodedUITestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+          <Private>False</Private>
+        </Reference>
+        <Reference Include="Microsoft.VisualStudio.TestTools.UITest.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+          <Private>False</Private>
+        </Reference>
+        <Reference Include="Microsoft.VisualStudio.TestTools.UITest.Extension, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+          <Private>False</Private>
+        </Reference>
+        <Reference Include="Microsoft.VisualStudio.TestTools.UITesting, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+          <Private>False</Private>
+        </Reference>
+      </ItemGroup>
+    </When>
+  </Choose>
+  <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

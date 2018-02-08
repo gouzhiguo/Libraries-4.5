@@ -1,0 +1,6 @@
+D:\SuiNingWang\Libraries 4.5\EC.Libraries.Solr\bin\Release\EC.Libraries.Solr.dll
+D:\SuiNingWang\Libraries 4.5\EC.Libraries.Solr\bin\Release\EC.Libraries.Solr.pdb
+D:\SuiNingWang\Libraries 4.5\EC.Libraries.Solr\obj\Release\EC.Libraries.Solr.dll
+D:\SuiNingWang\Libraries 4.5\EC.Libraries.Solr\obj\Release\EC.Libraries.Solr.pdb
+D:\SuiNingWang\Libraries 4.5\EC.Libraries.Solr\bin\Release\EC.Libraries.Framework.dll
+D:\SuiNingWang\Libraries 4.5\EC.Libraries.Solr\obj\Release\EC.Libraries.Solr.csprojResolveAssemblyReference.cache

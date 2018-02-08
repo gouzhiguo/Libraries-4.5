@@ -1,0 +1,14 @@
+D:\SuiNingWang\Libraries 4.5\EC.Libraries.File\bin\Release\EC.Libraries.File.dll
+D:\SuiNingWang\Libraries 4.5\EC.Libraries.File\bin\Release\EC.Libraries.File.pdb
+D:\SuiNingWang\Libraries 4.5\EC.Libraries.File\bin\Release\EC.Libraries.Framework.dll
+D:\SuiNingWang\Libraries 4.5\EC.Libraries.File\bin\Release\EC.Libraries.Framework.pdb
+D:\SuiNingWang\Libraries 4.5\EC.Libraries.File\obj\Release\EC.Libraries.File.csprojResolveAssemblyReference.cache
+D:\SuiNingWang\Libraries 4.5\EC.Libraries.File\obj\Release\EC.Libraries.File.dll
+D:\SuiNingWang\Libraries 4.5\EC.Libraries.File\obj\Release\EC.Libraries.File.pdb
+D:\Libraries 4.5\EC.Libraries.File\bin\Release\EC.Libraries.File.dll
+D:\Libraries 4.5\EC.Libraries.File\bin\Release\EC.Libraries.File.pdb
+D:\Libraries 4.5\EC.Libraries.File\bin\Release\EC.Libraries.Framework.dll
+D:\Libraries 4.5\EC.Libraries.File\bin\Release\EC.Libraries.Framework.pdb
+D:\Libraries 4.5\EC.Libraries.File\obj\Release\EC.Libraries.File.csprojResolveAssemblyReference.cache
+D:\Libraries 4.5\EC.Libraries.File\obj\Release\EC.Libraries.File.dll
+D:\Libraries 4.5\EC.Libraries.File\obj\Release\EC.Libraries.File.pdb

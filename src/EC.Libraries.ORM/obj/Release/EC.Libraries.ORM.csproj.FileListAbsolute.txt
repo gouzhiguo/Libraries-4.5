@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\SuiNing\Libraries 4.5\EC.Libraries.ORM\bin\Release\EC.Libraries.ORM.dll
+C:\Users\Administrator\Desktop\SuiNing\Libraries 4.5\EC.Libraries.ORM\bin\Release\EC.Libraries.ORM.pdb
+C:\Users\Administrator\Desktop\SuiNing\Libraries 4.5\EC.Libraries.ORM\obj\Release\EC.Libraries.ORM.dll
+C:\Users\Administrator\Desktop\SuiNing\Libraries 4.5\EC.Libraries.ORM\obj\Release\EC.Libraries.ORM.pdb
+D:\SuiNingWang\Libraries 4.5\EC.Libraries.ORM\bin\Release\EC.Libraries.ORM.dll
+D:\SuiNingWang\Libraries 4.5\EC.Libraries.ORM\bin\Release\EC.Libraries.ORM.pdb
+D:\SuiNingWang\Libraries 4.5\EC.Libraries.ORM\obj\Release\EC.Libraries.ORM.csprojResolveAssemblyReference.cache
+D:\SuiNingWang\Libraries 4.5\EC.Libraries.ORM\obj\Release\EC.Libraries.ORM.dll
+D:\SuiNingWang\Libraries 4.5\EC.Libraries.ORM\obj\Release\EC.Libraries.ORM.pdb
+D:\Libraries 4.5\EC.Libraries.ORM\bin\Release\EC.Libraries.ORM.dll
+D:\Libraries 4.5\EC.Libraries.ORM\bin\Release\EC.Libraries.ORM.pdb
+D:\Libraries 4.5\EC.Libraries.ORM\obj\Release\EC.Libraries.ORM.csprojResolveAssemblyReference.cache
+D:\Libraries 4.5\EC.Libraries.ORM\obj\Release\EC.Libraries.ORM.dll
+D:\Libraries 4.5\EC.Libraries.ORM\obj\Release\EC.Libraries.ORM.pdb

@@ -1,0 +1,14 @@
+D:\SuiNingWang\Libraries 4.5\EC.Libraries.RabbitMQ\bin\Release\EC.Libraries.RabbitMQ.exe.config
+D:\SuiNingWang\Libraries 4.5\EC.Libraries.RabbitMQ\bin\Release\EC.Libraries.RabbitMQ.exe
+D:\SuiNingWang\Libraries 4.5\EC.Libraries.RabbitMQ\bin\Release\EC.Libraries.RabbitMQ.pdb
+D:\SuiNingWang\Libraries 4.5\EC.Libraries.RabbitMQ\bin\Release\RabbitMQ.Client.dll
+D:\SuiNingWang\Libraries 4.5\EC.Libraries.RabbitMQ\obj\Release\EC.Libraries.RabbitMQ.csprojResolveAssemblyReference.cache
+D:\SuiNingWang\Libraries 4.5\EC.Libraries.RabbitMQ\obj\Release\EC.Libraries.RabbitMQ.exe
+D:\SuiNingWang\Libraries 4.5\EC.Libraries.RabbitMQ\obj\Release\EC.Libraries.RabbitMQ.pdb
+D:\Libraries 4.5\EC.Libraries.RabbitMQ\bin\Release\EC.Libraries.RabbitMQ.exe.config
+D:\Libraries 4.5\EC.Libraries.RabbitMQ\bin\Release\EC.Libraries.RabbitMQ.exe
+D:\Libraries 4.5\EC.Libraries.RabbitMQ\bin\Release\EC.Libraries.RabbitMQ.pdb
+D:\Libraries 4.5\EC.Libraries.RabbitMQ\bin\Release\RabbitMQ.Client.dll
+D:\Libraries 4.5\EC.Libraries.RabbitMQ\obj\Release\EC.Libraries.RabbitMQ.csprojResolveAssemblyReference.cache
+D:\Libraries 4.5\EC.Libraries.RabbitMQ\obj\Release\EC.Libraries.RabbitMQ.exe
+D:\Libraries 4.5\EC.Libraries.RabbitMQ\obj\Release\EC.Libraries.RabbitMQ.pdb

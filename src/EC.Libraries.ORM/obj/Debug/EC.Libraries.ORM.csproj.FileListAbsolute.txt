@@ -1,0 +1,4 @@
+C:\Users\Administrator\Desktop\SuiNing\Libraries 4.5\EC.Libraries.ORM\bin\Debug\EC.Libraries.ORM.dll
+C:\Users\Administrator\Desktop\SuiNing\Libraries 4.5\EC.Libraries.ORM\bin\Debug\EC.Libraries.ORM.pdb
+C:\Users\Administrator\Desktop\SuiNing\Libraries 4.5\EC.Libraries.ORM\obj\Debug\EC.Libraries.ORM.dll
+C:\Users\Administrator\Desktop\SuiNing\Libraries 4.5\EC.Libraries.ORM\obj\Debug\EC.Libraries.ORM.pdb

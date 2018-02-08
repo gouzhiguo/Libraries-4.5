@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FD6508AA-20D5-4243-A3CD-FF80D0F9460B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>EC.Libraries.Util</RootNamespace>
+    <AssemblyName>EC.Libraries.Util</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EmitMapper">
+      <HintPath>..\lib\EmitMapper.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net">
+      <HintPath>..\lib\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Mvc, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\lib\System.Web.Mvc.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\lib\System.Web.WebPages.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CombinImageUtil.cs" />
+    <Compile Include="ConfigUtil.cs" />
+    <Compile Include="CookieUtil.cs" />
+    <Compile Include="DesUtil.cs" />
+    <Compile Include="EncodingUtil.cs" />
+    <Compile Include="EncryptionUtil.cs" />
+    <Compile Include="EnumUtil.cs" />
+    <Compile Include="Extension\EntityExtension.cs" />
+    <Compile Include="Extension\EnumerableExtension.cs" />
+    <Compile Include="FileUtil.cs" />
+    <Compile Include="FormatUtil.cs" />
+    <Compile Include="HttpUtils.cs" />
+    <Compile Include="ImageUtil.cs" />
+    <Compile Include="IniUtil.cs" />
+    <Compile Include="JsonUtil.cs" />
+    <Compile Include="LogUtil.cs" />
+    <Compile Include="Pager\IPagedList.cs" />
+    <Compile Include="Pager\PageCondition.cs" />
+    <Compile Include="Pager\PagedList.cs" />
+    <Compile Include="Pager\PageLinqExtensions.cs" />
+    <Compile Include="Pager\PagerBuilder.cs" />
+    <Compile Include="Pager\PagerHelper.cs" />
+    <Compile Include="Pager\PagerItem.cs" />
+    <Compile Include="Pager\PagerOptions.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PropertyCompareUtil.cs" />
+    <Compile Include="SequenceIdUtil.cs" />
+    <Compile Include="UniqueID\DisposableAction.cs" />
+    <Compile Include="UniqueID\IdSystem.cs" />
+    <Compile Include="UniqueID\IniUtil.cs" />
+    <Compile Include="UniqueID\InvalidSystemClock.cs" />
+    <Compile Include="UniqueID\IUniqueID.cs" />
+    <Compile Include="UniqueID\UniqueID.cs" />
+    <Compile Include="ValidateCodes\AdminVerifyCodeStyle.cs" />
+    <Compile Include="ValidateCodes\CodeWrap.cs" />
+    <Compile Include="ValidateCodes\ForeVerifyCodeStyle.cs" />
+    <Compile Include="ValidateCodes\ICode.cs" />
+    <Compile Include="ValidateCodes\VerifyCodeManger.cs" />
+    <Compile Include="ValidateCodeUtil.cs" />
+    <Compile Include="Validator\Rule\IRule.cs" />
+    <Compile Include="Validator\Rule\Rule_Bank.cs" />
+    <Compile Include="Validator\Rule\Rule_CartAction.cs" />
+    <Compile Include="Validator\Rule\Rule_Chinese.cs" />
+    <Compile Include="Validator\Rule\Rule_DateTime.cs" />
+    <Compile Include="Validator\Rule\Rule_Decimal.cs" />
+    <Compile Include="Validator\Rule\Rule_Email.cs" />
+    <Compile Include="Validator\Rule\Rule_Equal.cs" />
+    <Compile Include="Validator\Rule\Rule_Equals.cs" />
+    <Compile Include="Validator\Rule\Rule_EqualsNull.cs" />
+    <Compile Include="Validator\Rule\Rule_IDCard.cs" />
+    <Compile Include="Validator\Rule\Rule_IPAddress.cs" />
+    <Compile Include="Validator\Rule\Rule_Letter.cs" />
+    <Compile Include="Validator\Rule\Rule_LetterAndNumber.cs" />
+    <Compile Include="Validator\Rule\Rule_Mobile.cs" />
+    <Compile Include="Validator\Rule\Rule_Not.cs" />
+    <Compile Include="Validator\Rule\Rule_NotAllowNull.cs" />
+    <Compile Include="Validator\Rule\Rule_Number.cs" />
+    <Compile Include="Validator\Rule\Rule_Or.cs" />
+    <Compile Include="Validator\Rule\Rule_Post.cs" />
+    <Compile Include="Validator\Rule\Rule_QQ.cs" />
+    <Compile Include="Validator\Rule\Rule_Range.cs" />
+    <Compile Include="Validator\Rule\Rule_Special.cs" />
+    <Compile Include="Validator\Rule\Rule_StringLenth.cs" />
+    <Compile Include="Validator\Rule\Rule_Telephone.cs" />
+    <Compile Include="Validator\VHelper.cs" />
+    <Compile Include="Validator\VResult.cs" />
+    <Compile Include="WebUtil.cs" />
+    <Compile Include="XmlUtil.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

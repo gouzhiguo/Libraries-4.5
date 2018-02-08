@@ -1,0 +1,11 @@
+C:\Libraries 4.5\EC.Libraries.Util\bin\Debug\EC.Libraries.Util.dll
+C:\Libraries 4.5\EC.Libraries.Util\bin\Debug\EC.Libraries.Util.pdb
+C:\Libraries 4.5\EC.Libraries.Util\obj\Debug\EC.Libraries.Util.dll
+C:\Libraries 4.5\EC.Libraries.Util\obj\Debug\EC.Libraries.Util.pdb
+C:\Libraries 4.5\EC.Libraries.Util\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\SuiNing\Libraries 4.5\EC.Libraries.Util\bin\Debug\EC.Libraries.Util.dll
+C:\Users\Administrator\Desktop\SuiNing\Libraries 4.5\EC.Libraries.Util\bin\Debug\EC.Libraries.Util.pdb
+C:\Users\Administrator\Desktop\SuiNing\Libraries 4.5\EC.Libraries.Util\bin\Debug\EmitMapper.dll
+C:\Users\Administrator\Desktop\SuiNing\Libraries 4.5\EC.Libraries.Util\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\SuiNing\Libraries 4.5\EC.Libraries.Util\obj\Debug\EC.Libraries.Util.dll
+C:\Users\Administrator\Desktop\SuiNing\Libraries 4.5\EC.Libraries.Util\obj\Debug\EC.Libraries.Util.pdb
